@@ -3,8 +3,8 @@
 Building a pipeline in python to clean and pre-process song lyrics to perform analysis. Eminem's lyrics were scrapped from [lyricsGenius](https://github.com/johnwmillr/LyricsGenius), a Python library by [Johnwmillr](https://github.com/johnwmillr) on December 22, 2020.
 
 ###### Analysis performed:
-- WordCloud
-- 
+- WordCloud (***EminemWC.png***)
+- Text (NLTK) Analysis
 - Sentiment Analysis
 
 ### Frameworks
