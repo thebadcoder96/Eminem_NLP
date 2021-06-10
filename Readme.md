@@ -30,5 +30,5 @@ You can clone the whole repo and run the **.ipynb** files on Jupyter Notebook or
 
 **NOTE :** The resulting files when running the above files will be saved in the working directory. However, all the output files are stored in files folder here for organizing reasons. 
 
-!(Eminem WordCloud)[https://github.com/thebadcoder96/Eminem/blob/master/files/EminemWC.png?raw=true]
+![Eminem WordCloud](https://github.com/thebadcoder96/Eminem/blob/master/files/EminemWC.png?raw=true)
 
