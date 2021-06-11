@@ -4,7 +4,7 @@ Building a pipeline in python to clean and pre-process song lyrics to perform an
 
 ###### Analysis performed:
 - WordCloud (***EminemWC.png***)
-- Text (NLTK) Analysis
+- Text Analysis
 - Sentiment Analysis
 
 ### Frameworks
