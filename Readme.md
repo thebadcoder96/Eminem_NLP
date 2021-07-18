@@ -26,7 +26,7 @@ You can clone the whole repo and run the **.ipynb** files on Jupyter Notebook or
 - ***Extract.ipynb :***  Code used to scrape Eminem's lyrics
 - ***TransformLoad.ipynb :*** Code for data cleaning and pre-processing
 - ***Test.db:***  DataBase to store data from TransformLoad.ipynb
-- ***WordCloudAnalysis.ipynb :*** Code for WordCloud and NLP analysis
+- ***NLTKAnalysis.ipynb :*** Code for WordCloud and NLP analysis
 
 **NOTE :** The resulting files when running the above files will be saved in the working directory. However, all the output files are stored in files folder here for organizing reasons. 
 
